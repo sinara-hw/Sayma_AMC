@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Sayma_AMC
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1113,7 +1113,7 @@ UniqueID=87FB6AA6-8244-452C-97AF-A1ACE0AB8CD2
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=127
+VariationCount=137
 Variation1=Designator=R180B|UniqueId=\PEHTFNMT\HKBNYAJE|Kind=1|AlternatePart= 
 Variation2=Designator=R181B|UniqueId=\PEHTFNMT\FRKPSEAK|Kind=1|AlternatePart= 
 Variation3=Designator=C265|UniqueId=\DPIADPIX\RSPRTNLJ|Kind=1|AlternatePart= 
@@ -1125,7 +1125,7 @@ Variation8=Designator=R359|UniqueId=\DPIADPIX\QEIJFAHA|Kind=1|AlternatePart=
 Variation9=Designator=R360|UniqueId=\DPIADPIX\YTARRUXG|Kind=1|AlternatePart= 
 Variation10=Designator=C278|UniqueId=\KXKDKCOF\BMSEDROW|Kind=1|AlternatePart= 
 Variation11=Designator=C343|UniqueId=\KXKDKCOF\JRCSRQYV|Kind=1|AlternatePart= 
-Variation12=Designator=R363|UniqueId=\DPIADPIX\WNUUNNYC|Kind=1|AlternatePart= 
+Variation12=Designator=R363|UniqueId=\DPIADPIX\WNUUNNYC|Kind=0|AlternatePart= 
 Variation13=Designator=R383|UniqueId=\DPIADPIX\WIRPJUPM|Kind=1|AlternatePart= 
 Variation14=Designator=R382|UniqueId=\DPIADPIX\KHXJBAQL|Kind=1|AlternatePart= 
 Variation15=Designator=R530|UniqueId=\QOXLCMRE\GFTETVIM|Kind=1|AlternatePart= 
@@ -1241,17 +1241,19 @@ Variation124=Designator=IC58|UniqueId=\FGSXJNQU\HFDWOQIW\TUVAQQMZ|Kind=1|Alterna
 Variation125=Designator=L25|UniqueId=\FGSXJNQU\HFDWOQIW\UXHACSEB|Kind=1|AlternatePart= 
 Variation126=Designator=R180A|UniqueId=\UNUXHZYS\HKBNYAJE|Kind=1|AlternatePart= 
 Variation127=Designator=R181A|UniqueId=\UNUXHZYS\FRKPSEAK|Kind=1|AlternatePart= 
+Variation128=Designator=R344|UniqueId=\DPIADPIX\GATYSJWK\HILMFLGT|Kind=1|AlternatePart= 
+Variation129=Designator=R538|UniqueId=\DPIADPIX\GATYSJWK\TGORRPOT|Kind=1|AlternatePart= 
+Variation130=Designator=R345|UniqueId=\DPIADPIX\GATYSJWK\FDOGFDJQ|Kind=1|AlternatePart= 
+Variation131=Designator=R539|UniqueId=\DPIADPIX\GATYSJWK\VFCCIBXI|Kind=1|AlternatePart= 
+Variation132=Designator=R526|UniqueId=\DPIADPIX\GATYSJWK\RXDDTEMA|Kind=1|AlternatePart= 
+Variation133=Designator=R541|UniqueId=\DPIADPIX\GATYSJWK\QRAOPJDU|Kind=1|AlternatePart= 
+Variation134=Designator=R494|UniqueId=\DPIADPIX\GATYSJWK\XURBDPTF|Kind=1|AlternatePart= 
+Variation135=Designator=R540|UniqueId=\DPIADPIX\GATYSJWK\AEZRXJBL|Kind=1|AlternatePart= 
+Variation136=Designator=R379|UniqueId=\DPIADPIX\ZNKHOZOT|Kind=1|AlternatePart= 
+Variation137=Designator=R375|UniqueId=\DPIADPIX\SGIESMJB|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=C:\Users\gkasp\AppData\Local\Temp\ProBD83.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=C:\Users\gkasp\AppData\Local\Temp\ProCA09.xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Sayma_AMC.LOG
 DItemRevisionGUID=
 
@@ -1266,7 +1268,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Sayma_AMC
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

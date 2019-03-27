@@ -11,7 +11,7 @@ TimestampOutput=0
 SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
-PinSwapBy_Pin=1
+PinSwapBy_Pin=0
 AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
@@ -956,23 +956,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document55]
-DocumentPath=Sayma_AMC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MIMNAPFY
-
-[Document56]
 DocumentPath=CPU_LPC1776_SUP_PROG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=FPGA_Banks_67_68_DDR32.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document57]
 DocumentPath=ETH_PHY_RGMII.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=SI5324_CDR_WR_oscillators.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document59]
 DocumentPath=DDMTD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKQQIXXS
 
-[Document61]
+[Document60]
 DocumentPath=DDMTD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=QUAD_BUCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YYLQEKDK
 
-[Document63]
+[Document62]
 DocumentPath=PWR_DC_DC_EXAR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1113,7 +1096,7 @@ UniqueID=87FB6AA6-8244-452C-97AF-A1ACE0AB8CD2
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=137
+VariationCount=140
 Variation1=Designator=R180B|UniqueId=\PEHTFNMT\HKBNYAJE|Kind=1|AlternatePart= 
 Variation2=Designator=R181B|UniqueId=\PEHTFNMT\FRKPSEAK|Kind=1|AlternatePart= 
 Variation3=Designator=C265|UniqueId=\DPIADPIX\RSPRTNLJ|Kind=1|AlternatePart= 
@@ -1251,6 +1234,9 @@ Variation134=Designator=R494|UniqueId=\DPIADPIX\GATYSJWK\XURBDPTF|Kind=1|Alterna
 Variation135=Designator=R540|UniqueId=\DPIADPIX\GATYSJWK\AEZRXJBL|Kind=1|AlternatePart= 
 Variation136=Designator=R379|UniqueId=\DPIADPIX\ZNKHOZOT|Kind=1|AlternatePart= 
 Variation137=Designator=R375|UniqueId=\DPIADPIX\SGIESMJB|Kind=1|AlternatePart= 
+Variation138=Designator=MOD?|UniqueId=\FGSXJNQU\HFDWOQIW\CDKGPETO|Kind=1|AlternatePart= 
+Variation139=Designator=R528|UniqueId=\TVPRAXEM\MSJUBRRC|Kind=1|AlternatePart= 
+Variation140=Designator=R486|UniqueId=\TVPRAXEM\HSGLFTYH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1379,7 +1365,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother DCP-J315W Printer (Copy 1)
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -2053,15 +2039,15 @@ Type65=1
 Type66=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=2
 Type2=1
-Type3=2
+Type3=3
 Type4=1
 Type5=2
 Type6=2
-Type7=1
+Type7=2
 Type8=1
-Type9=1
+Type9=2
 Type10=1
 Type11=2
 Type12=2
@@ -2069,10 +2055,10 @@ Type13=2
 Type14=1
 Type15=1
 Type16=1
-Type17=1
+Type17=3
 Type18=1
 Type19=1
-Type20=1
+Type20=3
 Type21=1
 Type22=1
 Type23=1
@@ -2080,14 +2066,14 @@ Type24=1
 Type25=2
 Type26=2
 Type27=2
-Type28=1
-Type29=1
+Type28=3
+Type29=3
 Type30=1
-Type31=1
-Type32=2
+Type31=2
+Type32=3
 Type33=2
 Type34=2
-Type35=1
+Type35=2
 Type36=2
 Type37=1
 Type38=2
@@ -2109,12 +2095,12 @@ Type53=1
 Type54=1
 Type55=1
 Type56=2
-Type57=1
-Type58=1
+Type57=2
+Type58=2
 Type59=2
 Type60=1
-Type61=2
-Type62=2
+Type61=1
+Type62=1
 Type63=1
 Type64=0
 Type65=2
@@ -2126,7 +2112,7 @@ Type70=2
 Type71=2
 Type72=2
 Type73=2
-Type74=1
+Type74=3
 Type75=2
 Type76=1
 Type77=1
@@ -2141,8 +2127,8 @@ Type85=3
 Type86=2
 Type87=2
 Type88=2
-Type89=1
-Type90=1
+Type89=3
+Type90=3
 Type91=3
 Type92=3
 Type93=2
@@ -2756,6 +2742,23 @@ ModelUpdate100=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=VCCINT|NetColor=$00FF6EFF
+Net2=NetName=LTM_1V_OUT|NetColor=$003399FF
+Net3=NetName=VCCAUX|NetColor=$00009900
+Net4=NetName=VCCBRAM|NetColor=$00FF6699
+Net5=NetName=P1V8|NetColor=$00009900
+Net6=NetName=P3V3|NetColor=$0000BE00
+Net7=NetName=MGTAVTT|NetColor=$005050FF
+Net8=NetName=GND|NetColor=$000000BF
+Net9=NetName=MGTAVCC|NetColor=$006699FF
+Net10=NetName=P1V0|NetColor=$003399FF
+Net11=NetName=NetC688_2|NetColor=$003399FF
+Net12=NetName=P3V3_CLK|NetColor=$0000BE00
+Net13=NetName=P1V5|NetColor=$006EFF6E
+Net14=NetName=P12V0|NetColor=$00FF6E6E
+Net15=NetName=MGTVCCAUX|NetColor=$00009900
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0

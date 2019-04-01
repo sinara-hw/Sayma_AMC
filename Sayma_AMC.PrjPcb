@@ -2744,21 +2744,22 @@ UpdateVariants=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=VCCINT|NetColor=$00FF6EFF
-Net2=NetName=LTM_1V_OUT|NetColor=$003399FF
-Net3=NetName=VCCAUX|NetColor=$00009900
-Net4=NetName=VCCBRAM|NetColor=$00FF6699
-Net5=NetName=P1V8|NetColor=$00009900
-Net6=NetName=P3V3|NetColor=$0000BE00
-Net7=NetName=MGTAVTT|NetColor=$005050FF
-Net8=NetName=GND|NetColor=$000000BF
-Net9=NetName=MGTAVCC|NetColor=$006699FF
-Net10=NetName=P1V0|NetColor=$003399FF
-Net11=NetName=NetC688_2|NetColor=$003399FF
-Net12=NetName=P3V3_CLK|NetColor=$0000BE00
-Net13=NetName=P1V5|NetColor=$006EFF6E
-Net14=NetName=P12V0|NetColor=$00FF6E6E
-Net15=NetName=MGTVCCAUX|NetColor=$00009900
+Net1=NetName=P3V3MP|NetColor=$0099FF66
+Net2=NetName=VCCINT|NetColor=$00FF6EFF
+Net3=NetName=LTM_1V_OUT|NetColor=$003399FF
+Net4=NetName=VCCAUX|NetColor=$00009900
+Net5=NetName=VCCBRAM|NetColor=$00FF6699
+Net6=NetName=P1V8|NetColor=$00009900
+Net7=NetName=P3V3|NetColor=$0000BE00
+Net8=NetName=MGTAVTT|NetColor=$005050FF
+Net9=NetName=GND|NetColor=$000000BF
+Net10=NetName=MGTAVCC|NetColor=$006699FF
+Net11=NetName=P1V0|NetColor=$003399FF
+Net12=NetName=NetC688_2|NetColor=$003399FF
+Net13=NetName=P3V3_CLK|NetColor=$0000BE00
+Net14=NetName=P1V5|NetColor=$006EFF6E
+Net15=NetName=P12V0|NetColor=$00FF6E6E
+Net16=NetName=MGTVCCAUX|NetColor=$00009900
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0

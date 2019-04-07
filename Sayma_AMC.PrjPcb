@@ -936,7 +936,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KGTMOBOR
+DocumentUniqueId=OQGGRNCJ
 
 [Document54]
 DocumentPath=FPGA_Banks_44_45_46_DDR64.Harness
@@ -1096,18 +1096,18 @@ UniqueID=87FB6AA6-8244-452C-97AF-A1ACE0AB8CD2
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=140
+VariationCount=150
 Variation1=Designator=R180B|UniqueId=\PEHTFNMT\HKBNYAJE|Kind=1|AlternatePart= 
 Variation2=Designator=R181B|UniqueId=\PEHTFNMT\FRKPSEAK|Kind=1|AlternatePart= 
 Variation3=Designator=C265|UniqueId=\DPIADPIX\RSPRTNLJ|Kind=1|AlternatePart= 
 Variation4=Designator=C268|UniqueId=\DPIADPIX\MAMIBSMJ|Kind=1|AlternatePart= 
-Variation5=Designator=C274|UniqueId=\DPIADPIX\SMHCMMNC|Kind=1|AlternatePart= 
-Variation6=Designator=C275|UniqueId=\KXKDKCOF\KOBSNIVJ|Kind=1|AlternatePart= 
+Variation5=Designator=C274|UniqueId=\DPIADPIX\SMHCMMNC|Kind=0|AlternatePart= 
+Variation6=Designator=C275|UniqueId=\KXKDKCOF\KOBSNIVJ|Kind=0|AlternatePart= 
 Variation7=Designator=C277|UniqueId=\DPIADPIX\SFSEWACM|Kind=1|AlternatePart= 
 Variation8=Designator=R359|UniqueId=\DPIADPIX\QEIJFAHA|Kind=1|AlternatePart= 
 Variation9=Designator=R360|UniqueId=\DPIADPIX\YTARRUXG|Kind=1|AlternatePart= 
-Variation10=Designator=C278|UniqueId=\KXKDKCOF\BMSEDROW|Kind=1|AlternatePart= 
-Variation11=Designator=C343|UniqueId=\KXKDKCOF\JRCSRQYV|Kind=1|AlternatePart= 
+Variation10=Designator=C278|UniqueId=\KXKDKCOF\BMSEDROW|Kind=0|AlternatePart= 
+Variation11=Designator=C343|UniqueId=\KXKDKCOF\JRCSRQYV|Kind=0|AlternatePart= 
 Variation12=Designator=R363|UniqueId=\DPIADPIX\WNUUNNYC|Kind=0|AlternatePart= 
 Variation13=Designator=R383|UniqueId=\DPIADPIX\WIRPJUPM|Kind=1|AlternatePart= 
 Variation14=Designator=R382|UniqueId=\DPIADPIX\KHXJBAQL|Kind=1|AlternatePart= 
@@ -1126,7 +1126,7 @@ Variation26=Designator=R60|UniqueId=\VYTPYCSL\DCCBIQJJ|Kind=1|AlternatePart=
 Variation27=Designator=R59|UniqueId=\VYTPYCSL\IFWSBEHO|Kind=1|AlternatePart= 
 Variation28=Designator=R58|UniqueId=\VYTPYCSL\LLOKJBNT|Kind=1|AlternatePart= 
 Variation29=Designator=R233|UniqueId=\VOONSXWO\NDNJIOLC|Kind=1|AlternatePart= 
-Variation30=Designator=R231|UniqueId=\DPIADPIX\GINYAIYN|Kind=1|AlternatePart= 
+Variation30=Designator=R231|UniqueId=\DPIADPIX\GINYAIYN|Kind=0|AlternatePart= 
 Variation31=Designator=R251|UniqueId=\VOONSXWO\GNHSQKGR|Kind=1|AlternatePart= 
 Variation32=Designator=R246|UniqueId=\VOONSXWO\RGGJWGJP|Kind=1|AlternatePart= 
 Variation33=Designator=R248|UniqueId=\VOONSXWO\CRGCCYJA|Kind=1|AlternatePart= 
@@ -1237,9 +1237,23 @@ Variation137=Designator=R375|UniqueId=\DPIADPIX\SGIESMJB|Kind=1|AlternatePart=
 Variation138=Designator=MOD?|UniqueId=\FGSXJNQU\HFDWOQIW\CDKGPETO|Kind=1|AlternatePart= 
 Variation139=Designator=R528|UniqueId=\TVPRAXEM\MSJUBRRC|Kind=1|AlternatePart= 
 Variation140=Designator=R486|UniqueId=\TVPRAXEM\HSGLFTYH|Kind=1|AlternatePart= 
+Variation141=Designator=R509|UniqueId=\FGSXJNQU\WVYOTCFO\IRTDTPVY|Kind=1|AlternatePart= 
+Variation142=Designator=R524|UniqueId=\FGSXJNQU\MUXDYPQN|Kind=1|AlternatePart= 
+Variation143=Designator=R216|UniqueId=\NSTIJJQS\NXALNKUP|Kind=1|AlternatePart= 
+Variation144=Designator=R555|UniqueId=\FGSXJNQU\HFDWOQIW\SPWASJJJ\OJLGSQHB|Kind=1|AlternatePart= 
+Variation145=Designator=R560|UniqueId=\FGSXJNQU\HFDWOQIW\SPWASJJJ\AFKHHWJD|Kind=1|AlternatePart= 
+Variation146=Designator=R563|UniqueId=\FGSXJNQU\HFDWOQIW\SPWASJJJ\LGLIPXOC|Kind=1|AlternatePart= 
+Variation147=Designator=R566|UniqueId=\FGSXJNQU\HFDWOQIW\SPWASJJJ\QAVRGHKG|Kind=1|AlternatePart= 
+Variation148=Designator=R386|UniqueId=\DPIADPIX\CJHVTNHA|Kind=1|AlternatePart= 
+Variation149=Designator=C674|UniqueId=\DPIADPIX\GATYSJWK\RZQVBTXQ|Kind=1|AlternatePart= 
+Variation150=Designator=C675|UniqueId=\DPIADPIX\GATYSJWK\DVSFGLXW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Sayma_AMC\Design Rule Check - Sayma_AMC.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Sayma_AMC.LOG
 DItemRevisionGUID=
 
@@ -1365,7 +1379,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Brother DCP-J315W Printer (Copy 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

@@ -1096,7 +1096,7 @@ UniqueID=87FB6AA6-8244-452C-97AF-A1ACE0AB8CD2
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=150
+VariationCount=151
 Variation1=Designator=R180B|UniqueId=\PEHTFNMT\HKBNYAJE|Kind=1|AlternatePart= 
 Variation2=Designator=R181B|UniqueId=\PEHTFNMT\FRKPSEAK|Kind=1|AlternatePart= 
 Variation3=Designator=C265|UniqueId=\DPIADPIX\RSPRTNLJ|Kind=1|AlternatePart= 
@@ -1247,14 +1247,11 @@ Variation147=Designator=R566|UniqueId=\FGSXJNQU\HFDWOQIW\SPWASJJJ\QAVRGHKG|Kind=
 Variation148=Designator=R386|UniqueId=\DPIADPIX\CJHVTNHA|Kind=1|AlternatePart= 
 Variation149=Designator=C674|UniqueId=\DPIADPIX\GATYSJWK\RZQVBTXQ|Kind=1|AlternatePart= 
 Variation150=Designator=C675|UniqueId=\DPIADPIX\GATYSJWK\DVSFGLXW|Kind=1|AlternatePart= 
+Variation151=Designator=IC2|UniqueId=\QRTOMERD\FUDEJHVR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Sayma_AMC\Design Rule Check - Sayma_AMC.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Sayma_AMC.LOG
 DItemRevisionGUID=
 
 [Configuration1]

@@ -936,7 +936,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OQGGRNCJ
+DocumentUniqueId=EQSGGCVC
 
 [Document54]
 DocumentPath=FPGA_Banks_44_45_46_DDR64.Harness
@@ -1096,7 +1096,7 @@ UniqueID=87FB6AA6-8244-452C-97AF-A1ACE0AB8CD2
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=151
+VariationCount=159
 Variation1=Designator=R180B|UniqueId=\PEHTFNMT\HKBNYAJE|Kind=1|AlternatePart= 
 Variation2=Designator=R181B|UniqueId=\PEHTFNMT\FRKPSEAK|Kind=1|AlternatePart= 
 Variation3=Designator=C265|UniqueId=\DPIADPIX\RSPRTNLJ|Kind=1|AlternatePart= 
@@ -1131,10 +1131,10 @@ Variation31=Designator=R251|UniqueId=\VOONSXWO\GNHSQKGR|Kind=1|AlternatePart=
 Variation32=Designator=R246|UniqueId=\VOONSXWO\RGGJWGJP|Kind=1|AlternatePart= 
 Variation33=Designator=R248|UniqueId=\VOONSXWO\CRGCCYJA|Kind=1|AlternatePart= 
 Variation34=Designator=R247|UniqueId=\VOONSXWO\YUWHZIKZ|Kind=1|AlternatePart= 
-Variation35=Designator=C335|UniqueId=\SPCLXDPW\ZWQAGPAR|Kind=1|AlternatePart= 
-Variation36=Designator=C336|UniqueId=\SPCLXDPW\WRKJULNV|Kind=1|AlternatePart= 
-Variation37=Designator=C333|UniqueId=\SPCLXDPW\AVOWNAKG|Kind=1|AlternatePart= 
-Variation38=Designator=C334|UniqueId=\SPCLXDPW\LJWMYDSC|Kind=1|AlternatePart= 
+Variation35=Designator=C335|UniqueId=\SPCLXDPW\ZWQAGPAR|Kind=0|AlternatePart= 
+Variation36=Designator=C336|UniqueId=\SPCLXDPW\WRKJULNV|Kind=0|AlternatePart= 
+Variation37=Designator=C333|UniqueId=\SPCLXDPW\AVOWNAKG|Kind=0|AlternatePart= 
+Variation38=Designator=C334|UniqueId=\SPCLXDPW\LJWMYDSC|Kind=0|AlternatePart= 
 Variation39=Designator=R263|UniqueId=\TVPRAXEM\NVQLARWL|Kind=1|AlternatePart= 
 Variation40=Designator=R261|UniqueId=\TVPRAXEM\HDKCONBS|Kind=1|AlternatePart= 
 Variation41=Designator=R262|UniqueId=\TVPRAXEM\BNPWQCLZ|Kind=1|AlternatePart= 
@@ -1182,10 +1182,10 @@ Variation82=Designator=R226|UniqueId=\VOONSXWO\JAKEBDQE|Kind=1|AlternatePart=
 Variation83=Designator=R227|UniqueId=\VOONSXWO\XKWGRKJR|Kind=1|AlternatePart= 
 Variation84=Designator=C270|UniqueId=\DPIADPIX\KTBXYFAD|Kind=1|AlternatePart= 
 Variation85=Designator=C272|UniqueId=\DPIADPIX\OQCFPFGS|Kind=1|AlternatePart= 
-Variation86=Designator=C182|UniqueId=\NSTIJJQS\FWEITVJU|Kind=1|AlternatePart= 
-Variation87=Designator=C185|UniqueId=\NSTIJJQS\YGAGEHTN|Kind=1|AlternatePart= 
-Variation88=Designator=C184|UniqueId=\NSTIJJQS\TRORWJJH|Kind=1|AlternatePart= 
-Variation89=Designator=C183|UniqueId=\NSTIJJQS\WVOJLMRN|Kind=1|AlternatePart= 
+Variation86=Designator=C182|UniqueId=\NSTIJJQS\FWEITVJU|Kind=0|AlternatePart= 
+Variation87=Designator=C185|UniqueId=\NSTIJJQS\YGAGEHTN|Kind=0|AlternatePart= 
+Variation88=Designator=C184|UniqueId=\NSTIJJQS\TRORWJJH|Kind=0|AlternatePart= 
+Variation89=Designator=C183|UniqueId=\NSTIJJQS\WVOJLMRN|Kind=0|AlternatePart= 
 Variation90=Designator=C680|UniqueId=\DPIADPIX\ZSANCNWK|Kind=1|AlternatePart= 
 Variation91=Designator=C681|UniqueId=\DPIADPIX\TMDDQOLJ|Kind=1|AlternatePart= 
 Variation92=Designator=R549|UniqueId=\HNHGCYBE\APCPJSMI|Kind=1|AlternatePart= 
@@ -1248,6 +1248,14 @@ Variation148=Designator=R386|UniqueId=\DPIADPIX\CJHVTNHA|Kind=1|AlternatePart=
 Variation149=Designator=C674|UniqueId=\DPIADPIX\GATYSJWK\RZQVBTXQ|Kind=1|AlternatePart= 
 Variation150=Designator=C675|UniqueId=\DPIADPIX\GATYSJWK\DVSFGLXW|Kind=1|AlternatePart= 
 Variation151=Designator=IC2|UniqueId=\QRTOMERD\FUDEJHVR|Kind=1|AlternatePart= 
+Variation152=Designator=C169|UniqueId=\NSTIJJQS\IPTQNLNP|Kind=1|AlternatePart= 
+Variation153=Designator=C168|UniqueId=\NSTIJJQS\CXTULRWJ|Kind=1|AlternatePart= 
+Variation154=Designator=C167|UniqueId=\NSTIJJQS\BZEKLYDB|Kind=1|AlternatePart= 
+Variation155=Designator=C166|UniqueId=\NSTIJJQS\BVMJMWKS|Kind=1|AlternatePart= 
+Variation156=Designator=C347|UniqueId=\SPCLXDPW\SCFKAEBS|Kind=1|AlternatePart= 
+Variation157=Designator=C348|UniqueId=\SPCLXDPW\ZOGXPQLW|Kind=1|AlternatePart= 
+Variation158=Designator=C349|UniqueId=\SPCLXDPW\LRUVQOXS|Kind=1|AlternatePart= 
+Variation159=Designator=C352|UniqueId=\SPCLXDPW\JLUIOCKH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -2763,14 +2771,16 @@ Net5=NetName=VCCBRAM|NetColor=$00FF6699
 Net6=NetName=P1V8|NetColor=$00009900
 Net7=NetName=P3V3|NetColor=$0000BE00
 Net8=NetName=MGTAVTT|NetColor=$005050FF
-Net9=NetName=GND|NetColor=$000000BF
-Net10=NetName=MGTAVCC|NetColor=$006699FF
-Net11=NetName=P1V0|NetColor=$003399FF
-Net12=NetName=NetC688_2|NetColor=$003399FF
-Net13=NetName=P3V3_CLK|NetColor=$0000BE00
-Net14=NetName=P1V5|NetColor=$006EFF6E
-Net15=NetName=P12V0|NetColor=$00FF6E6E
-Net16=NetName=MGTVCCAUX|NetColor=$00009900
+Net9=NetName=LTM_1V8_OUT|NetColor=$0000BE00
+Net10=NetName=GND|NetColor=$000000BF
+Net11=NetName=MGTAVCC|NetColor=$006699FF
+Net12=NetName=P1V0|NetColor=$003399FF
+Net13=NetName=NetC688_2|NetColor=$003399FF
+Net14=NetName=NetC694_2|NetColor=$0000BE00
+Net15=NetName=P3V3_CLK|NetColor=$0000BE00
+Net16=NetName=P1V5|NetColor=$006EFF6E
+Net17=NetName=P12V0|NetColor=$00FF6E6E
+Net18=NetName=MGTVCCAUX|NetColor=$00009900
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
